@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[grx:home|Door43 (grx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-grx|d43-grx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-grx/archive/master.zip|d43-grx.zip]]
+
+**Recent Changes**
+{{changes>ns = grx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/grx|Ethnologue data]]
+
